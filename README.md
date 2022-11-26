@@ -7,24 +7,24 @@ Read dataset
 Data inspection
 Data cleaning 
 # EDA
-Globel analysis
-Analysis on india
-Conclusion
-Year with Maximum Attacks: 2014
-Country with the Most Attacks: Iraq
-City with the Most Attacks: Baghdad
-Most Common Attack: Bombing/Explosion
-Maximum Casualties in an Attack: Armed Assault
-Most Wounded in an Attack: Bombing/Explosion
-Most Common Targets in an Attack: Private Citizens and Property
-Terrorist Group responsible for Maximum Attacks: Taliban
-Mostly terrorist used weapon type:Explosives
-Region with the most attacks: Middle east & north africa
-Year with Maximum killed : 2014
-In india's states has most number of terrorist attack : Jammu & kashmir
-In india's states has city most number of terrorist attack : Srinagar
-In india, year with maximum attack : 2016
-CPI-Maoist group had maximum terrorist attack in india
+1. Globel analysis
+2. Analysis on india
+# Conclusion
+ 1. Year with Maximum Attacks: 2014
+2. Country with the Most Attacks: Iraq
+3. City with the Most Attacks: Baghdad
+4. Most Common Attack: Bombing/Explosion
+5. Maximum Casualties in an Attack: Armed Assault
+6. Most Wounded in an Attack: Bombing/Explosion
+7. Most Common Targets in an Attack: Private Citizens and Property
+8. Terrorist Group responsible for Maximum Attacks: Taliban
+9. Mostly terrorist used weapon type:Explosives
+10. Region with the most attacks: Middle east & north africa
+11. Year with Maximum killed : 2014
+12. In india's states has most number of terrorist attack : Jammu & kashmir
+13. In india's states has city most number of terrorist attack : Srinagar
+14.In india, year with maximum attack : 2016
+15. CPI-Maoist group had maximum terrorist attack in india
 
 
 
